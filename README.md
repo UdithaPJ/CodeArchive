@@ -7,9 +7,9 @@ This repository serves as a journal of my coding journey, where each project ref
 
 📌 Why This Exists
 
-To practice programming by building real-world mini-projects.
-To reinforce fundamental concepts like data structures, algorithms, file handling, and more.
-To have fun writing code without overcomplicating things.
+- To practice programming by building real-world mini-projects.
+- To get a deeper underatanding about fundamental concepts like data structures, algorithms, file handling, and more.
+- To have fun writing code without overcomplicating things.
 
 ## Projects  
 
